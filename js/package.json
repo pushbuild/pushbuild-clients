@@ -1,0 +1,13 @@
+{
+  "name": "pushbuild",
+  "version": "0.1.0",
+  "description": "Client for the Pushbuild data APIs: 350+ official and public data sources (SEC, Fed, BLS, BEA, USDA, NOAA, central banks, crypto exchanges) behind one key",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "README.md"],
+  "engines": { "node": ">=18" },
+  "keywords": ["api", "open data", "economic data", "sec", "edgar", "financial data", "government data"],
+  "homepage": "https://pushbuild.com/apis",
+  "author": "Pushbuild LLC <admin@pushbuild.com>",
+  "license": "MIT"
+}
