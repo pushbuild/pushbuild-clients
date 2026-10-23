@@ -9,7 +9,7 @@ One key, 350+ official and public data sources: SEC EDGAR filings, Federal Reser
 ## Python
 
 ```
-pip install pushbuild
+pip install "git+https://github.com/pushbuild/pushbuild-clients#subdirectory=python"
 ```
 
 ```python
