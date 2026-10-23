@@ -23,7 +23,7 @@ print(pb.apis()[:10])        # every API slug
 ## JavaScript (Node 18+)
 
 ```
-npm install pushbuild
+npm install https://github.com/pushbuild/pushbuild-clients/releases/download/js-v0.1.0/pushbuild-0.1.0.tgz
 ```
 
 ```js
